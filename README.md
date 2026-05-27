@@ -38,14 +38,11 @@ dashboard across supplier, product, salesperson, and color dimensions.
 
 ## Power BI Dashboard
 
-### Page 1 — Revenue Overview
-![Revenue Overview](Page_1.png)
+### Page 1 — March Report
+![March Report](R_Page_1.png)
 
-### Page 2 — Supplier Analysis
-![Supplier Analysis](Page_2.png)
+### Page 2 — Salesperson Performance
+![Salesperson Performance](R_Page_2.png)
 
-### Page 3 — Product & Color Performance
-![Product Performance](Page_3.png)
-
-### Page 4 — Salesperson & Payment Analysis
-![Salesperson Analysis](Page_4.png)
+### Page 3 — Supplier Analysis
+![Supplier Analysis](R_Page_3.png)
