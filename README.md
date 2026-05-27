@@ -1,4 +1,4 @@
-# Retail Sales Analysis — Saree Shop
+# Retail Sales Analysis: Saree Shop
 
 ## Project Overview
 End-to-end retail sales analysis on original business data from a family-owned saree shop.
@@ -33,16 +33,16 @@ dashboard across supplier, product, salesperson, and color dimensions.
 - Aggregate Functions (SUM, AVG, COUNT)
 
 ## Project Files
-- `retail_analysis_main.sql` — Core business questions (Q1–Q6)
-- `retail_analysis_suppliers.sql` — Supplier analysis with VIEW (Q7–Q9)
+- `retail_analysis_main.sql`: Core business questions (Q1–Q6)
+- `retail_analysis_suppliers.sql`: Supplier analysis with VIEW (Q7–Q9)
 
 ## Power BI Dashboard
 
-### Page 1 — March Report
+### Page 1: March Report
 ![March Report](R_Page_1.png)
 
-### Page 2 — Salesperson Performance
+### Page 2: Salesperson Performance
 ![Salesperson Performance](R_Page_2.png)
 
-### Page 3 — Supplier Analysis
+### Page 3: Supplier Analysis
 ![Supplier Analysis](R_Page_3.png)
