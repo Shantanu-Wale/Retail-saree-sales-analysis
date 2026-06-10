@@ -107,7 +107,7 @@ The goal was to analyse sales performance, supplier contribution, salesperson ef
 2. **Vikas leads salesperson performance** at 28.18% revenue share : Traditional Prei category is his strongest
 3. **Rs. 2,43,473 lost to discounts** (11.7% of gross) : reducing average discount from 10.90 could significantly improve margins
 4. **Purple is the most demanded colour** at 66 units : inventory procurement should prioritise Purple and Pink
-5. **Traditional Prei and Premium categories** together contribute 56.96% of total revenue — core business drivers
+5. **Traditional Prei and Premium categories** together contribute 56.96% of total revenue ; core business drivers
 6. **Payment preferences are evenly split** across Cash, Credit Card, and UPI : multi-modal payment support is essential
 7. **Meghdoot leads supplier sales** : strongest supply chain partnership for high-demand categories
 
